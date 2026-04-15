@@ -41,14 +41,6 @@ Notes from TryHackMe Networking Path covering fundamental to intermediate networ
 
 ---
 
-🎯 Purpose of this Repository
-
-- Revision ke liye quick notes
-- Cybersecurity fundamentals strong karna
-- Real-world networking concepts samajhna
-
----
-
 ⚙️ Tools Covered
 
 - Wireshark
